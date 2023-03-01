@@ -1,0 +1,24 @@
+ul {
+    background: #c977c5;
+    padding: 20px;
+  }
+  
+  ul li {
+    background: #ff71ec;
+    color: rgb(139, 0, 109);
+    margin: 5px;
+  }
+
+  .telo {
+    background-color: rgb(247, 170, 247);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 60px;
+  }

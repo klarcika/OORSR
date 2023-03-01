@@ -1,0 +1,9 @@
+.footer {
+    background-color: hotpink;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+}
